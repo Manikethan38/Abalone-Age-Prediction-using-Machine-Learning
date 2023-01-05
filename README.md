@@ -1,4 +1,4 @@
-# Abalone Age Prediction
+# Abalone Age Prediction using Machine Learning
 
 Completed this project as part of my Data Science and Machine Learning Internship with United Network of Professionals (UNP). Key highlights:
 
